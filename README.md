@@ -1,6 +1,6 @@
 # RIFFER
 
-A social network for musicians. Currently acting as a placeholder for a project in planning.
+A social network for musicians. A project in planning!
 
 ## COMPONENT WIREFRAMES
 
@@ -15,11 +15,11 @@ Wireframe describes the UI components, their relationship, user workflow, and so
 
 #### What problems does your app solve?
 
-It can be difficult for hobbyist musicians to find other musicians in their area to collaborate with.  Beyond merely finding collaborators, songwriter’s block is a reality.  Sometimes, bouncing an idea off another musician for feedback is instrumental in helping develop and progress that idea into a completion.  
+It can be difficult for hobbyist musicians to find other musicians in their area to collaborate with.  Beyond merely finding collaborators, songwriter’s block is a reality.  Sometimes, bouncing an idea off another musician for feedback is instrumental in helping develop and progress that idea into completion.  
 
 #### How does it solve those problems?
 
-RIFFR provides a venue for users to post a guitar riff, a drum beat, a synthesizer lead, or other audio snippet for collaboration and feedback. The user registers and creates a profile where they will list things like their general location (ie, Greater Salt Lake City area), the instruments they play and their recording experience , the genres they listen to, their favorite bands, favorite gear, gear rig, etc.
+RIFFER provides a venue for users to post a guitar riff, a drum beat, a synthesizer lead, or other audio snippet for collaboration and feedback. The user registers and creates a profile where they will list things like their general location (ie, Greater Salt Lake City area), the instruments they play and their recording experience , the genres they listen to, their favorite bands, favorite gear, gear rig, etc.
 
 
 #### Who is your target user?
