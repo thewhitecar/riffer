@@ -4,6 +4,9 @@ A social network for musicians. Currently acting as a placeholder for a project 
 
 ## COMPONENT WIREFRAMES
 
+![riffer_wireframe_sample](https://user-images.githubusercontent.com/39201859/50459133-afd62e00-0925-11e9-89fa-ab9f9741e3cc.png)
+
+
 https://projects.invisionapp.com/freehand/document/E2JDXVS37
 
 Wireframe describes the UI components, their relationship, user workflow, and some commentary about database interaction
