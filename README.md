@@ -44,6 +44,6 @@ With the proliferation of digital audio workstations, digital sampling, and more
 
 ![riffer_schema](https://user-images.githubusercontent.com/39201859/50459083-4bb36a00-0925-11e9-82ce-2f786f580368.png)
 
-Last updated 12/23/18
+Last updated 12/26/18
 
 #### bootstrapped with create-react-app
