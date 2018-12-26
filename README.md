@@ -10,7 +10,7 @@ Wireframe describes the UI components, their relationship, user workflow, and so
 
 ## PURPOSE, USERS, SCOPE
 
-#### What problem(s) does your app solve?
+#### What problems does your app solve?
 
 It can be difficult for hobbyist musicians to find other musicians in their area to collaborate with.  Beyond merely finding collaborators, songwriter’s block is a reality.  Sometimes, bouncing an idea off another musician for feedback is instrumental in helping develop and progress that idea into a completion.  
 
